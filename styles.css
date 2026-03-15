@@ -32,3 +32,11 @@ img {
   header { padding: 1rem; }
   main { margin: 1rem auto; }
 }
+
+.dark-mode {
+  background-color: #1a1a2e;
+  color: #e0e0e0;
+}
+.dark-mode header {
+  background-color: #16213e;
+}
